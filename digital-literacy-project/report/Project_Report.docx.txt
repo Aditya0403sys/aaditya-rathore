@@ -1,0 +1,54 @@
+Digital Literacy Project Report
+
+Name: Aaditya Rathore
+Course: B.Tech
+University: VIT Bhopal University
+Subject: Digital Literacy
+Academic Year: 2025–2026
+
+Introduction
+
+Digital literacy is the ability to use digital technology, communication tools, and the internet safely and effectively. It helps individuals understand how to interact responsibly in the digital world.
+
+This project focuses on different aspects of digital literacy such as digital footprint awareness, online safety, data visualization, professional communication, and cybercrime awareness.
+
+Through this project, we learn how to use digital tools responsibly, protect personal information, and communicate professionally in online environments.
+
+Task 1: Digital Footprint Awareness
+
+A digital footprint refers to the information that people leave behind when they use the internet. This includes social media activity, online searches, and website visits.
+
+In this task, we explored how online actions create a digital footprint and how it can affect personal and professional reputation. We also learned the importance of managing privacy settings and being careful about what we share online.
+
+Task 2: Infographic on Digital Safety
+
+In this task, an infographic was created to spread awareness about digital safety. The infographic highlights important tips such as using strong passwords, avoiding suspicious links, and protecting personal data.
+
+The infographic was designed using Canva, which is an online tool for creating visual content. The goal of this task was to communicate digital safety practices in a clear and visually appealing way.
+
+Task 3: Data Visualization
+
+Data visualization helps represent information in graphical form so that it is easier to understand. In this task, charts were created to represent digital behavior or usage patterns.
+
+The visualization helps in understanding trends and patterns more clearly compared to raw data.
+
+Task 4: Professional Email and Social Media Etiquette
+
+This task focused on writing professional emails and understanding responsible behavior on social media platforms.
+
+Two professional emails were drafted: one requesting an assignment extension and another inquiring about an internship opportunity. Additionally, a checklist of social media do’s and don’ts was created to promote responsible online communication.
+
+
+Task 5: Cybercrime Awareness Case Study
+
+Cybercrime refers to illegal activities carried out using computers or the internet. In this task, a case study on phishing attacks was written.
+
+Phishing is a type of cybercrime where attackers try to steal personal information by pretending to be trusted organizations. A checklist of safety tips was also created to help people stay safe online and prevent cyber attacks.
+
+
+Conclusion
+
+This project helped in understanding the importance of digital literacy in today's technology-driven world. It highlighted the need for responsible digital behavior, awareness of online threats, and effective digital communication.
+
+By completing these tasks, we learned how to protect personal information, communicate professionally, and stay safe in the digital environment.
+
